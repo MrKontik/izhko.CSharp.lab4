@@ -4,7 +4,11 @@ using System.Text;
 
 namespace lab4
 {
-    class GermanySetting:Settings
+    /// <summary>
+    /// Это класс, с функциями, которые должны настраивать  приложения
+    /// </summary>
+    /// <returns>Сам класс</returns>
+    class GermanySetting :Settings
     {
         public override void AddresPolice()
         {

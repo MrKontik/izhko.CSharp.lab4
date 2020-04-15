@@ -4,6 +4,10 @@ using System.Text;
 
 namespace lab4
 {
+    /// <summary>
+    /// Это класс, с функциями, которые должны настраивать  приложения
+    /// </summary>
+    /// <returns>Сам класс</returns>
     class RussianSetting : Settings
     {
         public override void AddresPolice()
