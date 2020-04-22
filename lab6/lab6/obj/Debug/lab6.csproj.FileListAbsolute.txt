@@ -1,0 +1,9 @@
+C:\Users\МрКонтик\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\МрКонтик\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\МрКонтик\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\МрКонтик\source\repos\lab6\lab6\obj\Debug\lab6.pdb
