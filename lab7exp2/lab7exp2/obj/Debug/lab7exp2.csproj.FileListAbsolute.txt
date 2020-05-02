@@ -1,0 +1,9 @@
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\bin\Debug\lab7exp2.exe.config
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\bin\Debug\lab7exp2.exe
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\bin\Debug\lab7exp2.pdb
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.csprojAssemblyReference.cache
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.Form1.resources
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.Properties.Resources.resources
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.csproj.GenerateResource.cache
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.exe
+C:\Users\МрКонтик\source\repos\lab7exp2\lab7exp2\obj\Debug\lab7exp2.pdb
