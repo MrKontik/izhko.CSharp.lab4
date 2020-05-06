@@ -1,0 +1,11 @@
+<subscriber>
+<surname>123</surname>
+<district>123</district>
+<address>123</address>
+<telephone>123</telephone>
+<contract>123</contract>
+<date_conclusion_contract>123</date_conclusion_contract>
+<payment_for_installation>123</payment_for_installation>
+<monthly_fee>123</monthly_fee>
+<last_payment_date>123</last_payment_date>
+</subscriber>

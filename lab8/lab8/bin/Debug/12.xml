@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<subscribers>
+  <subscriber name="izhko">
+    <district>SPb</district>
+    <address>Lenina,2,2</address>
+    <telephone>+79342362332</telephone>
+    <contract>12346125</contract>
+    <date_conclusion_contract>02.02.2020</date_conclusion_contract>
+    <payment_for_installation>4000</payment_for_installation>
+    <monthly_fee>400</monthly_fee>
+    <last_payment_date>04.05.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Иванов">
+    <district>Колпино</district>
+    <address>Восстания,2,1</address>
+    <telephone>+73824524323</telephone>
+    <contract>5189279128</contract>
+    <date_conclusion_contract>01.02.2004</date_conclusion_contract>
+    <payment_for_installation>2500</payment_for_installation>
+    <monthly_fee>150</monthly_fee>
+    <last_payment_date>03.03.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Коров">
+    <district>Калининский</district>
+    <address>Иванова,5,123</address>
+    <telephone>+79002332323</telephone>
+    <contract>253523523523</contract>
+    <date_conclusion_contract>31.02.2014</date_conclusion_contract>
+    <payment_for_installation>9999</payment_for_installation>
+    <monthly_fee>999</monthly_fee>
+    <last_payment_date>04.03.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Карманов">
+    <district>Калининский</district>
+    <address>Иванова,5,124</address>
+    <telephone>+79002262323</telephone>
+    <contract>253523523524</contract>
+    <date_conclusion_contract>31.03.2014</date_conclusion_contract>
+    <payment_for_installation>5555</payment_for_installation>
+    <monthly_fee>555</monthly_fee>
+    <last_payment_date>31.03.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Уранов">
+    <district>Лормота</district>
+    <address>Ленина,1,4</address>
+    <telephone>+79335881253</telephone>
+    <contract>253523522456</contract>
+    <date_conclusion_contract>31.03.2019</date_conclusion_contract>
+    <payment_for_installation>1234</payment_for_installation>
+    <monthly_fee>111</monthly_fee>
+    <last_payment_date>31.04.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Шахматов">
+    <district>Шахматинский</district>
+    <address>Паранова,д100</address>
+    <telephone>4723489</telephone>
+    <contract>2839479823589</contract>
+    <date_conclusion_contract>31.03.2020</date_conclusion_contract>
+    <payment_for_installation>3452</payment_for_installation>
+    <monthly_fee>234</monthly_fee>
+    <last_payment_date>31.05.2020</last_payment_date>
+  </subscriber>
+  <subscriber name="Гагарин">
+    <district>Гагаринский</district>
+    <address>Гагарина,5,1</address>
+    <telephone>+78329432342</telephone>
+    <contract>111111111111</contract>
+    <date_conclusion_contract>31.03.1965</date_conclusion_contract>
+    <payment_for_installation>10</payment_for_installation>
+    <monthly_fee>1</monthly_fee>
+    <last_payment_date>31.05.1978</last_payment_date>
+  </subscriber>
+  <subscriber name="Ленин">
+    <district>Ленинский</district>
+    <address>Ленина,1,1</address>
+    <telephone>+7191911223</telephone>
+    <contract>21312121212</contract>
+    <date_conclusion_contract>31.03.1933</date_conclusion_contract>
+    <payment_for_installation>202</payment_for_installation>
+    <monthly_fee>20</monthly_fee>
+    <last_payment_date>31.05.1944</last_payment_date>
+  </subscriber>
+  <subscriber name="Денисов">
+    <district>Карматыч</district>
+    <address>Ижбат,3,12</address>
+    <telephone>+7243853423</telephone>
+    <contract>12457956235</contract>
+    <date_conclusion_contract>31.03.2002</date_conclusion_contract>
+    <payment_for_installation>20000</payment_for_installation>
+    <monthly_fee>200</monthly_fee>
+    <last_payment_date>31.05.2005</last_payment_date>
+  </subscriber>
+  <subscriber name="Карма">
+    <district>Жизнь</district>
+    <address>Земля</address>
+    <telephone>+???????????</telephone>
+    <contract>00000000000</contract>
+    <date_conclusion_contract>00.00.0000</date_conclusion_contract>
+    <payment_for_installation>Бесконечность</payment_for_installation>
+    <monthly_fee>Время</monthly_fee>
+    <last_payment_date>05.05.2020</last_payment_date>
+  </subscriber>
+</subscribers>
