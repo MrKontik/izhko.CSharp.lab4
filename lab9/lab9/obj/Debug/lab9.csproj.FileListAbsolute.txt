@@ -1,0 +1,9 @@
+C:\Users\МрКонтик\source\repos\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\МрКонтик\source\repos\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\МрКонтик\source\repos\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\МрКонтик\source\repos\lab9\lab9\obj\Debug\lab9.pdb
